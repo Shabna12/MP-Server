@@ -1,0 +1,78 @@
+{
+  "allVideos": [
+    {
+      "id": "674f",
+      "caption": "Premalu Trailer",
+      "imgURL": "https://upload.wikimedia.org/wikipedia/en/c/c5/Premalu_film_poster.jpg",
+      "youtubeURL": "https://www.youtube.com/embed/rR_2ti4l3nM"
+    },
+    {
+      "id": "5a0b",
+      "caption": "The GoatLife",
+      "imgURL": "https://indiaglitz-media.s3.amazonaws.com/telugu/home/the-goat-life-review-1.jpg",
+      "youtubeURL": "https://www.youtube.com/embed/qvsiJKdDxPs"
+    },
+    {
+      "id": "a9eb",
+      "caption": "F.R.I.E.N.D.S Reunion",
+      "imgURL": "https://m.media-amazon.com/images/S/pv-target-images/24b9af827ef9b2d94807e291c3bcdfc9da2684cf5a3f1af6cdf5c1e52efb8572.jpg",
+      "youtubeURL": "https://www.youtube.com/embed/L4NSb8jZ-9w"
+    },
+    {
+      "id": "693b",
+      "caption": "Leo Trailer",
+      "imgURL": "https://images.news18.com/ibnlive/uploads/2023/10/leo-movie-review-vijay-film-2023-10-1e2b26eca663a1c07de3b347b2db49db.jpg",
+      "youtubeURL": "https://www.youtube.com/embed/Po3jStA673E"
+    },
+    {
+      "id": "969e",
+      "caption": "Naam Cherrna Vazhakalil",
+      "imgURL": "https://pbs.twimg.com/media/GCAMZJtaIAASOeY.jpg:large",
+      "youtubeURL": "https://www.youtube.com/embed/pwd_uLqW5iA"
+    },
+    {
+      "id": "9298",
+      "caption": "Godzilla X Kong",
+      "imgURL": "https://m.media-amazon.com/images/I/711ltjnT18L._AC_UF1000,1000_QL80_.jpg",
+      "youtubeURL": "https://www.youtube.com/embed/lV1OOlGwExM"
+    }
+  ],
+  "history": [
+    {
+      "id": "34d4",
+      "caption": "Premalu Trailer",
+      "youtubeURL": "https://www.youtube.com/embed/rR_2ti4l3nM",
+      "timeStamp": "4/29/2024, 10:29:41 AM GMT+5:30"
+    },
+    {
+      "id": "4432",
+      "caption": "Leo Trailer",
+      "youtubeURL": "https://www.youtube.com/embed/Po3jStA673E",
+      "timeStamp": "4/29/2024, 10:40:28 AM GMT+5:30"
+    },
+    {
+      "id": "a0b8",
+      "caption": "F.R.I.E.N.D.S Reunion",
+      "youtubeURL": "https://www.youtube.com/embed/L4NSb8jZ-9w",
+      "timeStamp": "4/29/2024, 10:50:55 AM GMT+5:30"
+    },
+    {
+      "id": "3015",
+      "caption": "Premalu Trailer",
+      "youtubeURL": "https://www.youtube.com/embed/rR_2ti4l3nM",
+      "timeStamp": "5/3/2024, 2:14:53 PM GMT+5:30"
+    }
+  ],
+  "allCategory": [
+    {
+      "id": "421c",
+      "categoryName": "Trailer",
+      "allVideos": []
+    },
+    {
+      "id": "a5d5",
+      "categoryName": "Music",
+      "allVideos": []
+    }
+  ]
+}
